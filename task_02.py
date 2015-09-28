@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """This is task 2 the peanut import"""
 
-import peanut
 
-TIME = peanut.BUTTER
+import task_01.peanut
+
+TIME = task_01.peanut.BUTTER

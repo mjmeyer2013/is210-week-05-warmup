@@ -3,6 +3,6 @@
 """This is task 3 its jelly time"""
 
 
-from peanut import BUTTER
+from task_01.peanut import BUTTER
 
 JELLY = BUTTER
